@@ -1,0 +1,12 @@
+# PlatformIO build artifacts
+.pio/
+.cache/
+compile_commands.json
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
